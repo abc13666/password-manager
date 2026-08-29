@@ -1,0 +1,6 @@
+# Файлы с данными и ключами
+secret.key
+passwords.json
+
+# Кэш
+__pycache__/
